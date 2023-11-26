@@ -90,9 +90,6 @@ SiteVerificationTag = "XYZabc"
 [params.analytics.bing]
 SiteVerificationTag = "XYZabc"
 
-[params.analytics.yandex]
-SiteVerificationTag = "XYZabc"
-
   [params.cover]
   hidden = true
   hiddenInList = true
