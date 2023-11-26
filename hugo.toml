@@ -1,5 +1,5 @@
-baseURL = "https://examplesite.com/"
-title = "ExampleSite"
+baseURL = "https://botbot-priv.github.io/"
+title = "el-bot musings & thoughts"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -73,16 +73,8 @@ tocopen = false
   Content = "Welcome to my blog"
 
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
