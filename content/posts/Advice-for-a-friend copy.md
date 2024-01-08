@@ -90,7 +90,6 @@ When speaking to stakeholders, explanations should be clear, concise and simple 
 Developing this skill set is often overlooked in favour of technical expertise, but any one who’s passed the Certified Technical Architect exam will tell you it’s just as important, and anyone who’s worked with an inspiring architect will have seen that they are also a great communicator.
 
 
-
 Good architecture also makes things as simple as possible for system users. User Experience is critical for adoption.
 
 To keep things simple, try to break down a problem (e.g. Customer would like to buy a subscription) into smaller and smaller functions.
