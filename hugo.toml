@@ -8,6 +8,7 @@ buildFuture = false
 buildExpired = false
 googleAnalytics = "UA-123-45"
 pygmentsUseClasses = true
+comments: true
 
 [minify]
 disableXML = true
@@ -76,6 +77,10 @@ tocopen = false
   name = "LinkedIn"
   url = "https://www.linkedin.com/"
 
+  name: "KoFi"
+      title: "Buy me a Ko-Fi"
+      url: "https://ko-fi.com/lbot26"
+
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
 
@@ -121,7 +126,3 @@ weight = 30
 
 [markup.highlight]
 noClasses = false
-
-[services]
-  [services.disqus]
-    shortname = '@disqus_JxpW4nHPP6'
