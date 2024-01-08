@@ -93,7 +93,6 @@ Developing this skill set is often overlooked in favour of technical expertise, 
 
 Good architecture also makes things as simple as possible for system users. User Experience is critical for adoption.
 
-
 To keep things simple, try to break down a problem (e.g. Customer would like to buy a subscription) into smaller and smaller functions.
 
 Using Universal Process Notation (UPN) is one approach here.
