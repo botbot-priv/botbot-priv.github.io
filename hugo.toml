@@ -88,7 +88,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/An-Architects-Journey/content"
+  URL = "https://github.com/botbot-priv.github.io/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
