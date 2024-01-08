@@ -121,3 +121,7 @@ weight = 30
 
 [markup.highlight]
 noClasses = false
+
+[services]
+  [services.disqus]
+    shortname = '@disqus_JxpW4nHPP6'
