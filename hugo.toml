@@ -1,5 +1,5 @@
 baseURL = "https://botbot-priv.github.io/"
-title = "el-bot musings & thoughts"
+title = "an-architects-journey"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -126,3 +126,7 @@ weight = 30
 
 [markup.highlight]
 noClasses = false
+
+[services]
+  [services.disqus]
+    shortname = 'an-architects-journey'
