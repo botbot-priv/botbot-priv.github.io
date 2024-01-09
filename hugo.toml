@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://www.linkedin.com/in/lukebottomley/"
 title = "an-architects-journey"
 paginate = 5
 theme = "PaperMod"
@@ -18,8 +18,8 @@ minifyOutput = true
 [params]
 env = "production"
 title = "an-architects-journey"
-description = "ExampleSite description"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
+description = "A blog about Salesforce, architecture and personal development"
+keywords = [ "Blog", "Portfolio", "PaperMod","Salesforce", "Architecture"]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"

@@ -8,6 +8,7 @@ ShowToc: false
 ShowBreadCrumbs: false
 draft: false
 showToc: true
+comments: true
 ---
 The following article is an article intended to describe some of the key things to consider when designing software architecture.
 
