@@ -1,11 +1,11 @@
 ---
-author: "Me"
+author: "Luke Bottomley"
 title: "Great Software Architecture v1.0"
 date: "2024-01-07"
 description: "How to build great software architecture"
 tags: ["Salesforce","Architecture"]
 category: ["Salesforce"]
-ShowToc: true
+ShowToc: false
 ShowBreadCrumbs: true
 draft: false
 comments: true
@@ -16,18 +16,10 @@ It contains real anecdotes from my decade long career working with enterprise cl
 
 TLDR: Great software architecture is intentional, simple & flexible. Ensure you are working on the right thing, making sure your architecture is simple and easy to understand and flexible enough to handle the inevitable missed / new requirements.
 
-
-
 ——
-
-
-
-Great software architecture is intentional, simple & flexible. 
-
-
-
+# Great software architecture is intentional, simple & flexible. 
 —— 
-# H2 Intentional
+## Intentional
 
 To design great architecture it is critical to understand the business problem you are trying to solve. 
 
@@ -50,7 +42,7 @@ Once we have understood the business problem, we can be intentional with the des
 The architecture you will design should solve the challenge you identified ,the requirements you are aware of, within the boundary conditions you have set.
 
 
-# H2 Simple
+## Simple
 
 If architecture is simple. It is easy to understand. 
 
@@ -74,7 +66,7 @@ Using Universal Process Notation (UPN) is one approach here.
 
 https://trailhead.salesforce.com/content/learn/modules/business-process-mapping/understand-universal-process-notation
 
-# H2 Flexible
+## Flexible
 
 For architecture to be flexible it needs to handle change. New requirements are to be expected as things are often missed as part of the analysis or from new requirements that emerge from either users who use the system, or to support additional business models or processes.
 
@@ -92,7 +84,7 @@ We discussed Universal Process Notation (UPN) already and UPN fits nicely togeth
 
 Capability Maps, represent the business capabilities that the IT systems need to support. These capabilities can then be broken down into functions or features which can then be implemented, packaged and deployed.
 
-# H2 Summary
+## Summary
 
 Following these steps you’ll have hopefully discovered the business problem you are trying to solve, the “Job to be Done” & you’ll hopefully have identified & designed a simple, easy to understand and flexible architecture to solve it.
 
@@ -100,7 +92,7 @@ Of course… You still need to implement it.
 
 And to implement your great architecture you’ll need a high performing team (LINK) to do so.
 
-# H2 Call to action
+## Call to action
 
 If you are a business and found this article or series interesting and would like a review of your architecture from either myself or one of the other fantastic PS Architects, fill in the following form.
 
