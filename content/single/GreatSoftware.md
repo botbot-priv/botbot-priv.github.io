@@ -6,9 +6,8 @@ description: "How to build great software architecture"
 tags: ["Salesforce","Architecture"]
 category: ["Salesforce"]
 ShowToc: true
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 draft: false
-showToc: true
 comments: true
 ---
 The following article is an article intended to describe some of the key things to consider when designing software architecture.
