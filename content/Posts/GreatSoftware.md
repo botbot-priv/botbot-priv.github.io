@@ -1,11 +1,13 @@
 ---
-author: "Luke"
+author: "Me"
 title: "Great Software Architecture v1.0"
 date: "2024-01-07"
 description: "How to build great software architecture"
 tags: ["Salesforce","Architecture"]
 ShowToc: false
 ShowBreadCrumbs: false
+draft: false
+showToc: true
 ---
 The following article is an article intended to describe some of the key things to consider when designing software architecture.
 
