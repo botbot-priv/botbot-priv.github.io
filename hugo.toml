@@ -71,8 +71,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there NOW 👋"
-  Content = "Welcome to my blog"
+  Title = "Hello & Welcome 👋"
+  Content = "A blog about Salesforce, architecture and personal development. Self built using Hugo & Paper Mod and very much a work in progres..."
 
   [[params.socialIcons]]
   name = "linkedin"
@@ -93,7 +93,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/botbot-priv/botbot-priv.github.io/content"
+  URL = "botbot-priv/botbot-priv.github.io/blob/master/content/single"
   Text = "Suggest Changes"
   appendFilePath = true
 
