@@ -78,6 +78,10 @@ tocopen = false
   name = "linkedin"
   url = "https://www.linkedin.com/in/lukebottomley/"
 
+  [[params.socialIcons]]
+  name = "Buy me a Ko-Fi"
+  url = "ko-fi.com/lbot26"
+
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
 
