@@ -54,7 +54,7 @@ tocopen = false
   iconHeight = 35
 
   [params.profileMode]
-  enabled = false
+  enabled = true
   title = "ExampleSite"
   subtitle = "This is subtitle"
   imageUrl = "<img location>"
@@ -71,8 +71,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hello & Welcome 👋"
-  Content = "A blog about Salesforce, architecture and personal development. Self built using Hugo & Paper Mod and very much a work in progres..."
+  Title = "Hello & Welcome to my blog 👋."
+  Content = "Here you'll find posts about Salesforce, Consultancy & personal growth, usually from me, sometimes from others. Built using Hugo and hosted using Github to test my skills."
 
   [[params.socialIcons]]
   name = "linkedin"
