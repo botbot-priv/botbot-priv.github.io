@@ -80,7 +80,7 @@ tocopen = false
 
   [[params.socialIcons]]
   name = "Buy me a Ko-Fi"
-  url = "ko-fi.com/lbot26"
+  url = "https://ko-fi.com/lbot26"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
