@@ -57,7 +57,7 @@ tocopen = false
   enabled = true
   title = "An Architect's Journey"
   subtitle = "A site where you'll find posts about Salesforce, Consultancy & personal growth, usually from me, sometimes from others. Built using Hugo and hosted using Github to test my skills"
-  imageUrl = "https://media.licdn.com/dms/image/D4E03AQGrI5inukzejw/profile-displayphoto-shrink_800_800/0/1676968817691?e=1710374400&v=beta&t=k7A2hlzcn5hTQMTeCiUqNXfK18GLB3f1CwsCqkKK7HI"
+  imageUrl = [a link](an-architects-journey/assets/image.md)
   imageWidth = 120
   imageHeight = 120
   imageTitle = "my image"
