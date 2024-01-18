@@ -4,7 +4,7 @@ title: "Setting Teams up for Success"
 date: "2022-07-08"
 description: "Setting Teams up for Success"
 tags: ["Team Setup","SAFe"]
-categories: [SAFe]
+categories: [Leading Change]
 ShowToc: false
 ShowBreadCrumbs: true
 draft: false
