@@ -1,58 +1,19 @@
 {{ define "main" }}
-<div class="container">
-    <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            {{ .Content }}
-<form
-  action="https://formspree.io/p/1615048538327089110/f/contact"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email" />
-  </label>
+<h1>{{ .Title }}</h1>
+<p>{{ .Description }}</p>
 
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
+<form action="https://formspree.io/p/1615048538327089110/f/contact" method="post">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required><br>
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required><br>
+
+  <label for="message">Message:</label>
+  <textarea id="message" name="message" required></textarea><br>
 
   <input type="text" name="_gotcha" style="display:none" />
 
-  <button type="submit">Send</button>
+  <input type="submit" value="Submit">
 </form>
-
-<style>
-  /* Some nice boilerplate CSS to tidy up your form */
-  form {
-    display: grid;
-    grid-template-columns: max-content 1fr;
-    grid-gap: 1rem;
-    text-align: left;
-    padding: 2rem 0;
-    margin: 0;
-  }
-  form label {
-    display: contents;
-  }
-  form input[type="email"],
-  form textarea,
-  form button {
-    font-family: inherit;
-    font-size: inherit;
-    border: 1px solid currentColor;
-    background: none;
-    padding: 0.4rem 0.5rem;
-  }
-  form textarea {
-    resize: vertical;
-  }
-  form button {
-    justify-self: start;
-  }
-</style>
-
-          </div>
-        </div>
-    </div>
-    {{ end }}
+{{ end }}
