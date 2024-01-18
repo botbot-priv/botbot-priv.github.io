@@ -18,50 +18,33 @@
 </form>
 
 <style>
-  /* Assuming light mode styles */
-.contact-form {
-  background-color: #fff;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-/* Dark mode styles */
-body.dark-mode .contact-form {
-  background-color: #2c3e50;
-  color: #ecf0f1;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-}
-
-.contact-form h1 {
-  color: #333; /* Adjust text color based on your theme */
-}
-
-.contact-form label {
-  display: block;
-  margin-top: 10px;
-}
-
-.contact-form input,
-.contact-form textarea {
-  width: 100%;
-  padding: 10px;
-  margin-top: 5px;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-}
-
-.contact-form input[type="submit"] {
-  background-color: #3498db; /* Button color */
-  color: #fff;
-  cursor: pointer;
-}
-
-.contact-form input[type="submit"]:hover {
-  background-color: #2980b9; /* Button color on hover */
-}
+  /* Some nice boilerplate CSS to tidy up your form */
+  form {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-gap: 1rem;
+    text-align: left;
+    padding: 2rem 0;
+    margin: 0;
+  }
+  form label {
+    display: contents;
+  }
+  form input[type="email"],
+  form textarea,
+  form button {
+    font-family: inherit;
+    font-size: inherit;
+    border: 1px solid currentColor;
+    background: none;
+    padding: 0.4rem 0.5rem;
+  }
+  form textarea {
+    resize: vertical;
+  }
+  form button {
+    justify-self: start;
+  }
 </style>
 
 {{ end }}
