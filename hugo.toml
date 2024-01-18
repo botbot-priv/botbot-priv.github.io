@@ -122,11 +122,5 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
-[[menu.main]]
-identifier = "Contact"
-name = "Contact"
-url = "/tags/"
-weight = 30
-
 [markup.highlight]
 noClasses = false
