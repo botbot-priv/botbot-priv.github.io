@@ -122,5 +122,36 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
+[[menu.main]]
+identifier = "Contact"
+name = "Contact"
+url = "/tags/"
+weight = 30
+
 [markup.highlight]
 noClasses = false
+
+[params]
+  # Other parameters for your site
+
+[[params.forms]]
+  name = "contact"
+  action = "https://formspree.io/f/xqkraoby"
+  method = "POST"
+
+  [[params.forms.fields]]
+    name = "name"
+    label = "Your Name"
+    required = true
+
+  [[params.forms.fields]]
+    name = "email"
+    label = "Your Email"
+    type = "email"
+    required = true
+
+  [[params.forms.fields]]
+    name = "message"
+    label = "Your Message"
+    type = "textarea"
+    required = true
