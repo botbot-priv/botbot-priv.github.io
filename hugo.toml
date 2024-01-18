@@ -131,10 +131,7 @@ weight = 30
 [markup.highlight]
 noClasses = false
 
-[params]
-  # Other parameters for your site
-
-[[params.forms]]
+[params.forms]
   name = "contact"
   action = "https://formspree.io/f/xqkraoby"
   method = "POST"
