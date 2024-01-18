@@ -1,19 +1,20 @@
-<form
-  action="https://formspree.io/p/1615048538327089110/f/contact"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email" />
-  </label>
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>{{ .Description }}</p>
 
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
+<form action="https://formspree.io/p/1615048538327089110/f/contact" method="post">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required><br>
 
-  <button type="submit">Send</button>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required><br>
+
+  <label for="message">Message:</label>
+  <textarea id="message" name="message" required></textarea><br>
+
+  <input type="submit" value="Submit">
 </form>
+{{ end }}
 
 <style>
   /* Some nice boilerplate CSS to tidy up your form */
