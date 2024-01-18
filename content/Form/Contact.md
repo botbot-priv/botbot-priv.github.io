@@ -9,6 +9,6 @@ ShowToc: false
 ShowBreadCrumbs: true
 draft: true
 comments: true
-type: form
+type: Form
 layout: "form/contact"
 ---
