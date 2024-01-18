@@ -130,25 +130,3 @@ weight = 30
 
 [markup.highlight]
 noClasses = false
-
-[params.forms]
-  name = "contact"
-  action = "https://formspree.io/f/xqkraoby"
-  method = "POST"
-
-  [[params.forms.fields]]
-    name = "name"
-    label = "Your Name"
-    required = true
-
-  [[params.forms.fields]]
-    name = "email"
-    label = "Your Email"
-    type = "email"
-    required = true
-
-  [[params.forms.fields]]
-    name = "message"
-    label = "Your Message"
-    type = "textarea"
-    required = true
