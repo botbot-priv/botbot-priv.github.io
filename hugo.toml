@@ -86,6 +86,10 @@ tocopen = false
   name = "Buy me a Ko-Fi"
   url = "https://ko-fi.com/lbot26"
 
+   [[params.socialIcons]]
+  name = "discord"
+  url = "https://discord.gg/RmC8jatg"
+
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
 
