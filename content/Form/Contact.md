@@ -1,8 +1,8 @@
 ---
 author: "Luke Bottomley"
-title: "Contact Me"
+title: "Get in Touch"
 date: "2024-01-18"
-description: Get in touch.
+description: I'd love to hear from you and if you'd like to get in touch, the following form is a great place to start.
 tags: 
 categories: 
 ShowToc: false
@@ -12,5 +12,3 @@ comments: true
 type: form
 layout: "contact"
 ---
-
-If you'd like to get in touch, please do so using the following form.
