@@ -7,7 +7,7 @@ tags:
 categories: 
 ShowToc: false
 ShowBreadCrumbs: true
-draft: true
+draft: false
 comments: true
 type: form
 layout: "contact"
