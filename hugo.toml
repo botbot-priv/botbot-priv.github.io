@@ -72,11 +72,11 @@ tocopen = false
 
    [[params.profileMode.buttons]]
     name = "Contact"
-    url = "form"
+    url = "form/Contact"
 
   [params.homeInfoParams]
   Title = "Hello & Welcome to my blog 👋."
-  Content = "Here you'll find posts about Salesforce, Consultancy & personal growth, usually from me, sometimes from others. Built using Hugo and hosted using Github to test my skills."
+  Content = "Here you'll find posts about Salesforce, leading change, consultancy & personal growth, usually from me, sometimes from others. Built using Hugo and hosted using Github to test my skills."
 
   [[params.socialIcons]]
   name = "linkedin"
