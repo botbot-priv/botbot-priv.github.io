@@ -70,6 +70,10 @@ tocopen = false
     name = "Tags"
     url = "tags"
 
+   [[params.profileMode.buttons]]
+    name = "Contact"
+    url = "form"
+
   [params.homeInfoParams]
   Title = "Hello & Welcome to my blog 👋."
   Content = "Here you'll find posts about Salesforce, Consultancy & personal growth, usually from me, sometimes from others. Built using Hugo and hosted using Github to test my skills."
