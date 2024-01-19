@@ -83,7 +83,7 @@ tocopen = false
   url = "https://www.linkedin.com/in/lukebottomley/"
 
   [[params.socialIcons]]
-  name = "Buy me a Ko-Fi"
+  name = "Ko-Fi"
   url = "https://ko-fi.com/lbot26"
 
    [[params.socialIcons]]
