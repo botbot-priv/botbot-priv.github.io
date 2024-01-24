@@ -72,7 +72,7 @@ tocopen = false
 
    [[params.profileMode.buttons]]
     name = "Contact"
-    url = "form/Contact"
+    url = "form/contact"
 
   [params.homeInfoParams]
   Title = "Hello & Welcome to my blog 👋."
