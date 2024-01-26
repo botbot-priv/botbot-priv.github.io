@@ -10,8 +10,8 @@ ShowBreadCrumbs: true
 draft: false
 comments: true
 ---
-Projects would be quicker, cheaper & delivered more efficiently stakeholders were willing to effectively prioritise.
-Mental load from your employees would be drastically reduced. Everyone would be happier. 
+Projects would be quicker, cheaper & delivered more efficiently if stakeholders were willing to effectively prioritise.
+Mental load of employees would be drastically reduced. 
 
 It's a win-win-win-win.
 
