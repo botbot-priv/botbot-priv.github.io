@@ -71,7 +71,8 @@ Let's start with successful. Again the exact definition of success will vary fro
 
 Now what are we aiming for? We're aiming to break each of these goals or objectives into smaller, measurable results that can "owned" by a member of the clubs staff.
 
-![[Pasted image 20240128130027.png]]
+an-architects-journey/assets/Pasted image 20240128130027.png
+
 #### An example: 
 
 An objective owned by Graham Alexander:  "Improve team performance by 10% between now and the end of the 23/24 season."
