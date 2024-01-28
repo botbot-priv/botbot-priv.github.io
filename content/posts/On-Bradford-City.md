@@ -10,9 +10,6 @@ ShowBreadCrumbs: true
 draft: false
 comments: true
 ---
-
-
-
 ## An Introduction
 
 The following article is an attempt to answer [my own question](https://bantamtalk.com/index.php?threads/swindon-town-vs-bradford-city-saturday-27th-january-2024-3-00pm.7826/page-13#post-840466) posted on the BantamTalk forum during the game against Swindon and hopefully offer a way forward for the club.
