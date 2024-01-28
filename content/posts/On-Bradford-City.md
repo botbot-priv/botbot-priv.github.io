@@ -4,7 +4,7 @@ title: "A Path Forward for Bradford City"
 date: "2024-01-28"
 description: "An article offering a way forward for Bradford City"
 tags: ["Strategy","OKRs"]
-categories: [Footbal]
+categories: [Football]
 ShowToc: false
 ShowBreadCrumbs: true
 draft: false
