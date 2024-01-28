@@ -64,7 +64,7 @@ Well once the club has aligned on what it wants to aim towards, the next step is
 In this example, it would be "successful", "sustainable", "forward-thinking", "A club that the fans can be proud of". 
 For the purpose of this article I will ignore "a championship club" as the goals are fairly self explanatory and focus on the others.
 
-![Test](Images/Pasted image 20240128212642.png)
+![targets](Assets/Images/Pasted image 20240128212642.png)
 
 ### Defining Success
 
