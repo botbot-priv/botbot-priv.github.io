@@ -47,6 +47,7 @@ Something that Bradford City currently appear to lack.
 The following is an example of how a vision(+) could look for Bradford City.
 
 '+' - written over a weekend, while combining it with parenting so go easy if you don't think it's perfect or needs more work.
+
 ## A Vision
 
 A vision is something for employees & fans to rally around. 
@@ -63,15 +64,13 @@ Well once the club has aligned on what it wants to aim towards, the next step is
 In this example, it would be "successful", "sustainable", "forward-thinking", "A club that the fans can be proud of". 
 For the purpose of this article I will ignore "a championship club" as the goals are fairly self explanatory and focus on the others.
 
-![[Pasted image 20240128212642.png]]
+![Test](Images/Pasted image 20240128212642.png)
 
 ### Defining Success
 
 Let's start with successful. Again the exact definition of success will vary from team to team and although there are lots more, I'll focus for now on team performance & player performance.
 
 Now what are we aiming for? We're aiming to break each of these goals or objectives into smaller, measurable results that can "owned" by a member of the clubs staff.
-
-an-architects-journey/assets/Pasted image 20240128130027.png
 
 #### An example: 
 
