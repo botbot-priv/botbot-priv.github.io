@@ -7,7 +7,7 @@ tags: ["Strategy","OKRs"]
 categories: [Football]
 ShowToc: false
 ShowBreadCrumbs: true
-draft: false
+draft: true
 comments: true
 ---
 ## An Introduction
